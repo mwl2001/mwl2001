@@ -2,7 +2,7 @@
 - 👀 I’m interested in   java   and   c
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫  reach me 2090518919@qq.com
+- 📫 How to reach me 2090518919@qq.com
 
 <!---
 mwl2001/mwl2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
